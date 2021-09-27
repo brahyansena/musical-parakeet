@@ -1,0 +1,10 @@
+C:\ProyectoCore\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+C:\ProyectoCore\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\ProyectoCore\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+C:\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+C:\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+C:\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+C:\ProyectoCore\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
